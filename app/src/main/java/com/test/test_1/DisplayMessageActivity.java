@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-
+//test commit
 public class DisplayMessageActivity extends ActionBarActivity {
 
     @Override
